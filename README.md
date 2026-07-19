@@ -1,9 +1,9 @@
-## Software Development Reference Model
+# Software Development Reference Model
 A reference model of capabilities for a software development company. Designed for maturity assessment, organizational design, strategic planning, and roadmap development. Contains 58 capabilities across 10 domains: 5 development team blocks and 5 corporate blocks. Available under CC BY 4.0.
 
 For the English version of the text, please see below.
 
-# НАЗНАЧЕНИЕ МОДЕЛИ:
+### НАЗНАЧЕНИЕ МОДЕЛИ:
 
 Данная модель представляет собой эталонный перечень (Reference Model) способностей (Capabilities), необходимых для эффективной работы компании, специализирующейся на разработке программного обеспечения.
 
@@ -13,7 +13,7 @@ For the English version of the text, please see below.
 3. Стратегического планирования (Strategic Planning) — определение приоритетов развития на 1-3 года.
 4. Формирования дорожной карты развития (Roadmap Planning) — последовательное внедрение недостающих способностей.
 
-# СТРУКТУРА МОДЕЛИ:
+### СТРУКТУРА МОДЕЛИ:
 Модель разделена на два логических слоя:
 
 СПОСОБНОСТИ КОМАНД ПО РАЗРАБОТКЕ (Development Team Capabilities) — способности,непосредственно связанные с созданием и поставкой ПО, которые включают:                                                                
@@ -31,7 +31,7 @@ For the English version of the text, please see below.
   • Инфраструктура и корпоративные сервисы (Infrastructure & Services)     
   • Непрерывность бизнеса и управление рисками (BCP & Risk Management)     
 
-# ПРИНЦИПЫ ПОСТРОЕНИЯ МОДЕЛИ:
+### ПРИНЦИПЫ ПОСТРОЕНИЯ МОДЕЛИ:
 • Каждая способность (Capability) — это то, ЧТО организация должна уметь делать,
   независимо от того, КАК (процессы) и КЕМ (роли) это реализуется.
 • Способности верхнего уровня (родительские) декомпозированы на дочерние способности
@@ -49,10 +49,10 @@ https://creativecommons.org/licenses/by/4.0/
 
 ------
 
-# MODEL PURPOSE:
+### MODEL PURPOSE:
 This model is a reference model of capabilities required for the effective operation of a software development company.
 
-# The model is designed for:
+### The model is designed for:
 
 Maturity Assessment — identifying existing and missing capabilities.
 
@@ -62,7 +62,7 @@ Strategic Planning — determining development priorities for 1–3 years.
 
 Roadmap Planning — sequencing the implementation of missing capabilities.
 
-# MODEL STRUCTURE:
+### MODEL STRUCTURE:
 
 The model is divided into two logical layers:
 
@@ -80,7 +80,7 @@ CORPORATE CAPABILITIES — capabilities that ensure the company operates as a bu
 • Infrastructure & Services
 • BCP & Risk Management
 
-# MODEL PRINCIPLES:
+### MODEL PRINCIPLES:
 • Each capability is WHAT the organization should be able to do, regardless of HOW (processes) and BY WHOM (roles) it is implemented.
 • Parent capabilities are decomposed into child capabilities through Composition relationships.
 • The model is independent of specific technologies, methodologies, and organizational structures.
