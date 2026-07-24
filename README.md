@@ -32,6 +32,7 @@ For the English version of the text, please see below.
   • Непрерывность бизнеса и управление рисками (BCP & Risk Management)     
 
 ### ПРИНЦИПЫ ПОСТРОЕНИЯ МОДЕЛИ:
+
 • Каждая способность (Capability) — это то, ЧТО организация должна уметь делать,
   независимо от того, КАК (процессы) и КЕМ (роли) это реализуется.
 • Способности верхнего уровня (родительские) декомпозированы на дочерние способности
@@ -81,6 +82,7 @@ CORPORATE CAPABILITIES — capabilities that ensure the company operates as a bu
 • BCP & Risk Management
 
 ### MODEL PRINCIPLES:
+
 • Each capability is WHAT the organization should be able to do, regardless of HOW (processes) and BY WHOM (roles) it is implemented.
 • Parent capabilities are decomposed into child capabilities through Composition relationships.
 • The model is independent of specific technologies, methodologies, and organizational structures.
