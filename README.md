@@ -39,7 +39,7 @@ For the English version of the text, please see below.
   через отношение Composition (содержит в себе).
 3. Модель является независимой от конкретных технологий, методологий и оргструктуры.
 
-Эта модель доступна по лицензии Creative Commons Attribution 4.0 International.
+Модель доступна по лицензии Creative Commons Attribution 4.0 International.
 Чтобы просмотреть копию этой лицензии, посетите:
 https://creativecommons.org/licenses/by/4.0/
 
