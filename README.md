@@ -33,11 +33,11 @@ For the English version of the text, please see below.
 
 ### ПРИНЦИПЫ ПОСТРОЕНИЯ МОДЕЛИ:
 
-• Каждая способность (Capability) — это то, ЧТО организация должна уметь делать,
+1. Каждая способность (Capability) — это то, ЧТО организация должна уметь делать,
   независимо от того, КАК (процессы) и КЕМ (роли) это реализуется.
-• Способности верхнего уровня (родительские) декомпозированы на дочерние способности
+2. Способности верхнего уровня (родительские) декомпозированы на дочерние способности
   через отношение Composition (содержит в себе).
-• Модель является независимой от конкретных технологий, методологий и оргструктуры.
+3. Модель является независимой от конкретных технологий, методологий и оргструктуры.
 
 Эта модель доступна по лицензии Creative Commons Attribution 4.0 International.
 Чтобы просмотреть копию этой лицензии, посетите:
@@ -83,9 +83,9 @@ CORPORATE CAPABILITIES — capabilities that ensure the company operates as a bu
 
 ### MODEL PRINCIPLES:
 
-• Each capability is WHAT the organization should be able to do, regardless of HOW (processes) and BY WHOM (roles) it is implemented.
-• Parent capabilities are decomposed into child capabilities through Composition relationships.
-• The model is independent of specific technologies, methodologies, and organizational structures.
+1. Each capability is WHAT the organization should be able to do, regardless of HOW (processes) and BY WHOM (roles) it is implemented.
+2. Parent capabilities are decomposed into child capabilities through Composition relationships.
+3. The model is independent of specific technologies, methodologies, and organizational structures.
 
 This model is available under the Creative Commons Attribution 4.0 International License.
 To view a copy of this license, visit:
